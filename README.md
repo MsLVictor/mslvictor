@@ -1,5 +1,9 @@
 ### Olá! 👋
 
+Me chamo Victor, estudante de Análise e desenvolvimento de sistemas, sou apaixonado por programação e desenvolvimento de software.
+Atualmente estou focado em aprender mais sobre desenvolvimento web e ciência de dados, sempre em busca de novos desafios e oportunidades 
+para crescer na área de TI.
+
 #Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/victormleite/)
