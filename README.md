@@ -1,8 +1,8 @@
 ### Olá! 👋
 
-Me chamo Victor, estudante de Análise e desenvolvimento de sistemas, sou apaixonado por programação e desenvolvimento de software.
-Atualmente estou focado em aprender mais sobre desenvolvimento web e ciência de dados, sempre em busca de novos desafios e oportunidades 
-para crescer na área de TI.
+Me chamo Victor, estudante de Sistemas para internet, sou apaixonado por programação e desenvolvimento de software.
+Atualmente estou focado em aprender mais sobre desenvolvimento web e backend, sempre em busca de novos desafios e oportunidades 
+para crescer na área.
 
 #Conecte-se comigo
 
